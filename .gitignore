@@ -1,0 +1,12 @@
+node_modules
+.env
+dist
+build
+coverage
+.DS_Store
+
+# add these
+client/node_modules
+server/node_modules
+client/dist
+server/dist
